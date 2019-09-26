@@ -15,3 +15,7 @@ Skapa struktur
     .gitignore
     torsdag.sql
 
+
+
+2019-09-26
+Jag fixade till phpmyadmin då jag var sjuk i onsdags samt fixade saker i phpmyadmin.
